@@ -1,2 +1,2 @@
-
-rt FLASK_APP="$1"
+#!/usr/bin/env bash
+export FLASK_APP="$1"
